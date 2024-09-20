@@ -1,0 +1,1 @@
+// Product -> list, Add, Edit, delete Paramater: Product Name (type: string), Price (type: number), Old Price (type: number), Category type (type: select), is active (type: checkbox), description (type: textarea) Category list => Vegetables, Fruits & Nuts, Dairy & creams, Packages Food , Staples
